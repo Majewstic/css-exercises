@@ -1,1 +1,23 @@
-/* Add CSS Styling */
+.one, .four, .onePlus {
+    background-color: pink;
+}
+
+#two {
+    font-size: 38px;
+    color: blue;
+}
+
+.onePlus {
+    font-size: 32px;
+
+}
+
+#three {
+    font-weight: bold;
+    font-size: 26px;
+    background-color: greenyellow;
+}
+
+.one.four {
+    font-size: 24px;
+}
